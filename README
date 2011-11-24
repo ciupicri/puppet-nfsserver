@@ -1,0 +1,3 @@
+Module for configuring a NFSv4 server.
+
+The nfshomedir variable needs to be set. It represents the root of the exports.
